@@ -1,7 +1,7 @@
 # Pizza Hunt
 
 ### Description
-This full stack application uses a noSQL database, MongoDB and is a central location for pizza recipes. A user can open the application and even create their own pizza and can dynamically create their own topping as well to top the pie they have created. IndexedDB is a browser-based storage solution that is utilized for offline functionality.
+This full stack application uses a noSQL database, MongoDB and is a central location for pizza recipes. A user can open the application and even create their own pizza and can dynamically create their own topping as well to top the pie they have created. Discussions can be made under the pizzas created by the users. IndexedDB is a browser-based storage solution that is utilized for offline functionality.
 
 ### License
 ![Github licence](https://img.shields.io/badge/license-MIT-blue.svg)
